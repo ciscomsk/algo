@@ -11,6 +11,7 @@ object Squares extends App {
         spell(x == y)
       }
       println
+
     }
   }
 
